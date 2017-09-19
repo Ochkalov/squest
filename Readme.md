@@ -1,3 +1,3 @@
-#  Проект «Квест» [![Build status][travis-image]][travis-url]
+#  Проект «Квест»
 # Для запуска: npm start
 
